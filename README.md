@@ -1,5 +1,5 @@
-Recipe Collection - README
-Introduction
+**Recipe Collection - README**
+**Introduction**
 Welcome to the Recipe Collection repository, featuring a variety of delicious recipes ranging from classic comfort foods to healthy plant-based alternatives. Each recipe is designed to be easy to follow, complete with a list of ingredients, step-by-step instructions, tips, and serving suggestions.
 
 This collection includes the following recipes:
@@ -14,7 +14,8 @@ Blueberry Coffee Cake Muffins
 Oatmeal Glazed Breakfast Cake
 White Chicken Chili
 Saag Tofu (Vegan Saag Paneer)
-Recipe Descriptions
+
+**Recipe Descriptions**
 1. Best Classic Hamburger
 This classic burger recipe delivers juicy, flavorful beef patties, served with all your favorite toppings and condiments. Perfect for backyard barbecues or a quick weeknight dinner.
 
@@ -45,7 +46,7 @@ A creamy and comforting white chicken chili made with tender chicken, white bean
 10. Saag Tofu (Vegan Saag Paneer)
 A vegan twist on the classic Saag Paneer, made with crispy tofu and a creamy spinach sauce. A nutritious and satisfying plant-based meal.
 
-How to Use the Recipes
+**How to Use the Recipes**
 Each recipe is designed to be beginner-friendly and can be adapted to personal preferences. The steps are clear and concise, with suggestions for ingredient substitutions and tips for the best results.
 
 Steps:
